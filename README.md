@@ -36,8 +36,10 @@ A data modeling web application designed specifically for job tracking and compr
 
 ## Analytics
 
-![Htet Naung Oo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HtetNaungOo27&show_icons=true&theme=transparent&hide_border=true)
-![Htet Naung Oo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HtetNaungOo27&layout=compact&theme=transparent&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HtetNaungOo27&show_icons=true&theme=transparent&hide_border=true" alt="Htet Naung Oo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetNaungOo27&layout=compact&theme=transparent&hide_border=true" alt="Htet Naung Oo's Top Languages" />
+</p>
 
 ---
 
