@@ -1,106 +1,45 @@
-<h1 align="center">Hi 👋, I'm Htet Naung Oo</h1>
-
-<h3 align="center">
-Aspiring Full-Stack Developer | Laravel Enthusiast | Building Real-World Web Applications
-</h3>
+# Htet Naung Oo
+**Full-Stack Developer | Laravel & Web Applications**
 
 ---
 
-## 🚀 About Me
+## About
+I am a full-stack developer focused on designing and building scalable, real-world business systems. My technical focus revolves around creating comprehensive web applications with complex workflows, including role-based access control, integrated checkout systems, and detailed administrative dashboards. 
 
-I am learning and building full-stack web applications with a focus on real business systems.
-
-Currently, I am working with:
-
-- Laravel
-- Livewire
-- Tailwind CSS
-- MySQL
-- Orchid Admin Panel
-- Git & GitHub
-
-I enjoy building projects that include real workflows such as authentication, dashboards, checkout systems, admin panels, and role-based access.
+## Technical Stack
+* **Frameworks & Libraries:** Laravel, Livewire, Tailwind CSS
+* **Database & Architecture:** MySQL, Relational Data Modeling
+* **Tools & Administration:** Git, GitHub, Orchid Admin Panel
 
 ---
 
-## 🛠 Tech Stack
+## Featured Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+### Multi-Vendor Marketplace System
+A comprehensive full-stack online marketplace platform featuring distinct user roles for vendors, customers, and delivery personnel. 
+* **Stack:** Laravel, Livewire, Tailwind CSS, MySQL, Orchid Admin Panel
+* **Key Features:** End-to-end shopping flow, vendor product management and payout systems, cart and checkout integration, delivery tracking, role-based dashboards, and admin approvals.
+* [View Repository](https://github.com/HtetNaungOo27/marketplace)
 
----
-
-## 🌟 Featured Project
-
-### 🛒 Multi-Vendor Marketplace System
-
-A full-stack marketplace platform built with Laravel, Livewire, Tailwind CSS, MySQL, and Orchid Admin Panel.
-
-#### Key Features
-
-- Customer shopping flow
-- Vendor product management
-- Cart and checkout system
-- Payment records
-- Delivery tracking
-- Vendor payout system
-- Admin vendor approval
-- Orchid admin panel
-- Product reviews
-- Role-based dashboards
-
-🔗 Repository: [Marketplace](https://github.com/HtetNaungOo27/marketplace)
+### TalentConnect
+A data modeling web application designed specifically for job tracking and comprehensive application management.
+* [View Repository](https://github.com/HtetNaungOo27/TalentConnect)
 
 ---
 
-## 📌 Other Project
-
-### 💼 TalentConnect
-
-A web application project focused on connecting talent and opportunities.
-
-🔗 Repository: [TalentConnect](https://github.com/HtetNaungOo27/TalentConnect)
+## Professional Objectives
+* Architecting enterprise-ready, full-stack applications with clean code and efficient database design.
+* Mastering continuous deployment and production environments.
+* Expanding existing platforms with advanced features, including automated email notifications, dynamic PDF receipt generation, and system analytics.
 
 ---
 
-## 📊 GitHub Stats
+## Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HtetNaungOo27&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetNaungOo27&layout=compact&theme=tokyonight" />
-</p>
+![Htet Naung Oo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HtetNaungOo27&show_icons=true&theme=transparent&hide_border=true)
+![Htet Naung Oo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HtetNaungOo27&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-## 🎯 Current Goals
-
-- Improve Laravel and Livewire skills
-- Build portfolio-ready full-stack projects
-- Learn deployment and production workflows
-- Improve clean code and database design
-- Add PDF receipts, email notifications, and analytics to marketplace project
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/HtetNaungOo27">
-    <img src="https://img.shields.io/badge/GitHub-HtetNaungOo27-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Building, learning, and improving one project at a time 🚀</strong>
-</p>
+## Connect
+[GitHub Profile](https://github.com/HtetNaungOo27)
