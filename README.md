@@ -1,47 +1,29 @@
 # Htet Naung Oo
-**Full-Stack Developer | Laravel & Web Applications**
 
----
+Software Engineering student at UCSY (4th year). I build web apps with Laravel and MySQL, and I'm currently learning Django and machine learning.
 
-## About
-I am a full-stack developer focused on designing and building scalable, real-world business systems. My technical focus revolves around creating comprehensive web applications with complex workflows, including role-based access control, integrated checkout systems, and detailed administrative dashboards. 
+## What I'm working on
 
-## Technical Stack
-* **Frameworks & Libraries:** Laravel, Livewire, Tailwind CSS
-* **Database & Architecture:** MySQL, Relational Data Modeling
-* **Tools & Administration:** Git, GitHub, Orchid Admin Panel
+**ShinPya** (in progress): a study app for exam revision. A student who's good at a subject records short explanations once; classmates watch them, answer checkpoint questions, and get targeted re-explanations when they answer wrong. Laravel + MySQL, with a Django service for the AI parts.
 
----
+## Projects
 
-## Featured Projects
+**[Multi-Vendor Marketplace](https://github.com/HtetNaungOo27/marketplace)**
+Online marketplace with separate roles for vendors, customers and delivery staff: product management, cart and checkout, vendor payouts, delivery tracking and admin approval.
+Laravel, Livewire, Tailwind CSS, MySQL, Orchid
 
-### Multi-Vendor Marketplace System
-A comprehensive full-stack online marketplace platform featuring distinct user roles for vendors, customers, and delivery personnel. 
-* **Stack:** Laravel, Livewire, Tailwind CSS, MySQL, Orchid Admin Panel
-* **Key Features:** End-to-end shopping flow, vendor product management and payout systems, cart and checkout integration, delivery tracking, role-based dashboards, and admin approvals.
-* [View Repository](https://github.com/HtetNaungOo27/marketplace)
+**[TalentConnect](https://github.com/HtetNaungOo27/TalentConnect)**
+Job portal for candidates, employers and admins: CV builder with PDF export, applications, interview scheduling, offer letters, messaging and skill-based job matching.
+Laravel, MySQL
 
-### TalentConnect
-A data modeling web application designed specifically for job tracking and comprehensive application management.
-* [View Repository](https://github.com/HtetNaungOo27/TalentConnect)
+**[talentconnect-ml](https://github.com/HtetNaungOo27/talentconnect-ml)**
+Django service that replaces TalentConnect's keyword matching, starting with a Python port verified against the PHP version on real data. My first step into ML-backed features.
+Django, Python
 
----
+## Tools
 
-## Professional Objectives
-* Architecting enterprise-ready, full-stack applications with clean code and efficient database design.
-* Mastering continuous deployment and production environments.
-* Expanding existing platforms with advanced features, including automated email notifications, dynamic PDF receipt generation, and system analytics.
+Laravel · Livewire · Tailwind CSS · MySQL · Django · Python · scikit-learn · Git
 
----
+## Contact
 
-## Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HtetNaungOo27&show_icons=true&theme=transparent&hide_border=true" alt="Htet Naung Oo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetNaungOo27&layout=compact&theme=transparent&hide_border=true" alt="Htet Naung Oo's Top Languages" />
-</p>
-
----
-
-## Connect
-[GitHub Profile](https://github.com/HtetNaungOo27)
+htetnaungoo163@gmail.com
